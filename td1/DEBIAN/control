@@ -1,0 +1,7 @@
+Package: td
+Name: td
+Version: 1.1
+Architecture: all
+Description: A basic text editor
+Maintainer: Ethan Laur <phyrrus9@gmail.com>
+Author: Ethan Laur (phyrrus9> <phyrrus9@gmail.com>
